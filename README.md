@@ -1,2 +1,2 @@
-# IBM_Data_Scientist_Coursera
-Repository for class files and projects
+# IBM_Data_Science
+Repository for data science analytics IBM
