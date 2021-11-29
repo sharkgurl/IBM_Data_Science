@@ -1,2 +1,2 @@
-# IBM_Data_Scientist_Coursera
+# IBM_Data_Scientist
 Repository for class files and projects
